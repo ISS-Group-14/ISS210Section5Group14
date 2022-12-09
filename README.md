@@ -8,3 +8,4 @@ Involved Item 3 Image: https://www.usatoday.com/story/college/2017/08/10/report-
 Involved Item 4 Image:https://grownandflown.com/college-safety-women-steps-new-students/
 Involved Item 5 image: https://contracostanow.org/?attachment_id=2546
 Involved Item 6 pdf: https://doi.org/10.1080/00221546.2019.1664195open_in_new
+Involved Item 4 image: https://humansofhope.wordpress.com/an-illusion-of-safety/
