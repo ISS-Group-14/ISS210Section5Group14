@@ -7,5 +7,5 @@ Involved item 1 image one: https://www.campussafetymagazine.com/university/dont-
 Involved Item 2 image: https://www.usatoday.com/story/tech/tips/2022/06/07/change-youtube-channel-name/9861926002/
 Involved Item 3 Image: https://www.usatoday.com/story/college/2017/08/10/report-where-students-feel-most-and-least-safe-on-campus/37434691/
 Involved Item 4 Image:https://grownandflown.com/college-safety-women-steps-new-students/
-Involved Item 6 pdf: https://doi.org/10.1080/00221546.2019.1664195open_in_new
+Blue Light and Pepper Spray: Cisgnender College Women's Perception of Campus Safety and Implications of the "Stranger Danger" Myth: https://doi.org/10.1080/00221546.2019.1664195
 Involved Item 4 image: https://humansofhope.wordpress.com/an-illusion-of-safety/
